@@ -210,3 +210,6 @@ __marimo__/
 *.csv
 *.xlsx
 *.xls
+
+#exercises
+Holoviews_Exercises_soln.ipynb
