@@ -207,9 +207,9 @@ marimo/_lsp/
 __marimo__/
 
 #files
-*.csv
 *.xlsx
 *.xls
 
 #exercises
 Holoviews_Exercises_soln.ipynb
+Holoviews_Exercises2_soln.ipynb
